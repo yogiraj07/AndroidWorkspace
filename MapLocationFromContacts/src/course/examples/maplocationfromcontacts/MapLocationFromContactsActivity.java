@@ -5,6 +5,13 @@
 //B
 
 //f
+
+//d
+
+//cv
+//vv
+//vvf
+
 package course.examples.maplocationfromcontacts;
 
 import android.app.Activity;
