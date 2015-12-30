@@ -48,3 +48,5 @@ Temporary Items
 
 #Ignore these directories
 .metadata
+.metadata/
+.metadata\
