@@ -2,6 +2,11 @@
  * Must have Google Maps application installed
  */
 
+//d
+
+//cv
+//vv
+//vvf
 package course.examples.maplocationfromcontacts;
 
 import android.app.Activity;
