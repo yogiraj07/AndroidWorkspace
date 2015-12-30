@@ -1,10 +1,7 @@
 /* 
  * Must have Google Maps application installed
  */
-//A
-//B
 
-//f
 package course.examples.maplocationfromcontacts;
 
 import android.app.Activity;
