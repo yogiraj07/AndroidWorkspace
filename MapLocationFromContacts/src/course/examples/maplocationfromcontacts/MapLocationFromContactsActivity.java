@@ -15,8 +15,8 @@ import android.util.Log;
 import android.view.View;
 import android.widget.Button;
 
-//Several Activity lifecycle methods are instrumented to emit LogCat output
-//so you can follow this class' lifecycle
+//Several Activity life cycle methods are instrumented to emit LogCat output
+//so you can follow this class' life cycle
 
 public class MapLocationFromContactsActivity extends Activity {
 
